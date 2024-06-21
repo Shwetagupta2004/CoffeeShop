@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+}
+#Home
+{
+    min-height:600px;
+    display: flex;
+    align-items: center;
+    background: url(image/caroselimage.jpg);
+    background-size: cover;
+}
+#Home h3{
+    color: aliceblue;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: -4rem;
+    font-size: 2rem;
+}
+#Home p{
+    color: aliceblue;
+    font-size: 1rem;
+    padding-left: 40px;
+}
+.carouselbutton
+{
+    text-align: center;
+}
+#About h2
+{
+    text-align: center;
+    color: rgb(247, 175, 19);
+    font-family: 'Alkatra';
+    font-weight: bold;
+}
+.aboutcontainer h3
+{
+   text-transform: uppercase;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aboutcontainer p{
+    font-size: 20px;
+}
+#Order h2
+{
+    text-align: center;
+    color: rgb(247, 175, 19);
+    font-family: 'Alkatra';
+    font-weight: bold;
+}
+#Order h5
+{
+    color: aliceblue;
+}
+#Order h6
+{
+    color: aliceblue;
+}
+#Review h2
+{
+    text-align: center;
+    color:rgb(247, 175, 19);
+    font-family: 'Alkatra';
+    font-weight: bold;
+}
+#Contact h2
+{
+    text-align: center;
+    color:rgb(247, 175, 19);
+    font-family: 'Alkatra';
+    font-weight: bold; 
+}
+label
+{
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+}
